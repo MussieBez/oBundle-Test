@@ -1,5 +1,9 @@
-I added code starting on line 50 to 110 in assets/js/theme/category.js. This code uses the storefront api to add product to cart and remove product from cart. also checks to see if products are in cart. i added a banner on the category page showing logged in customer name. I also made the image show with the products 2nd image on hover for Special Item.
+# oBundle-Test
 
-Live Test Link: https://obundle-test64.mybigcommerce.com/
-<br>
+I have added a product in a new catagory. The product I have added has two pictures. When you hovered it will show you the second pic. 
+Then, I have added a button at the top of the catagory page. When you click the button will be added to the cart and it will notify you that the product has been added.
+Next, I again added another button which which delete every item in the cart and notify the customer.
+Finally, I added a banner that shows customer login details (First and Last name)
+
+URL - https://obundle-test64.mybigcommerce.com/ 
 Preview Code: ngqrhylyk6
